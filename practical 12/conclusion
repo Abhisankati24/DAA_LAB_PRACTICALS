@@ -1,0 +1,11 @@
+Time and space complexity:
+
+Case		Time complexity
+Best		O(n × n!)	
+Average		O(n × n!)	
+Worst		O(n × n!)
+
+Space complexity:(n!)
+
+Conclusion:
+The Travelling Salesman Problem (TSP) finds the shortest possible route that visits every city exactly once and returns to the starting city. The brute-force approach checks all possible routes and selects the route with minimum travel cost.	
